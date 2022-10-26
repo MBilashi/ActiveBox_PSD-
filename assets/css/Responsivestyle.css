@@ -1,0 +1,223 @@
+@media (min-width:1400px) {}
+@media (min-width:1200px) and (max-width:1399.99px){}
+@media (min-width:992px) and (max-width:1199.99px){
+  
+}
+@media (min-width:768px) and (max-width:991.99px){
+    .nav-item .nav-link{
+        padding:5px 10px ;
+      }
+    .nav-item .nav-link:hover{
+        color:white;
+        background: #2cacf8;
+      }
+      .nav-item .nav-link{
+        padding:5px 10px ;
+      }
+    .nav-item .nav-link:hover{
+        color:white;
+        background: #2cacf8;
+      } 
+      .hero_part{
+        width: 100%;
+        padding-bottom: 60px;
+      }
+      .hero_part_main h1{
+        font-size: 30px !important;
+        padding-top: 20px;
+      }
+      .hero_part_main p{
+        font-size: 14px;
+      }
+      .letest_work_display{
+        flex-direction: row !important;
+      }
+      .work_main{
+        width: 48%;
+      }
+      .slider_main{
+        flex-direction: column;
+      }
+      .box_left{
+        width: 100%;
+      }
+      .box_right{
+        width: 100%;
+      }
+      .slider_main_part{
+        width: 95%;
+      }
+      .carsole_one {
+        width: 100%;
+      }
+      .carsole_one h2{
+        font-size: 25px;
+       }
+       .free_download_main h2{
+        padding-top: 180px;
+      }
+      .top_footer_box{
+        padding-bottom: 30px;
+      }
+    
+      
+}
+@media (min-width:576px) and (max-width:767.99px){
+    .nav-item .nav-link{
+        padding:5px 10px ;
+      }
+    .nav-item .nav-link:hover{
+        color:white;
+        background: #2cacf8;
+      } 
+      .nav-item .nav-link{
+        padding:5px 10px ;
+      }
+    .nav-item .nav-link:hover{
+        color:white;
+        background: #2cacf8;
+      } 
+      .hero_part{
+        width: 100%;
+        padding-bottom: 60px;
+      }
+      .hero_part_main h1{
+        font-size: 30px !important;
+        padding-top: 20px;
+      }
+      .hero_part_main p{
+        font-size: 14px;
+      }
+      .letest_work_display{
+        flex-direction: row !important;
+      }
+      .work_main{
+        width: 48%;
+      }
+      .slider_main{
+        flex-direction: column;
+      }
+      .box_left{
+        width: 100%;
+      }
+      .box_right{
+        width: 100%;
+      }
+      .slider_main_part{
+        width: 95%;
+      }
+      .carsole_one {
+        width: 100%;
+      }
+      .carsole_one h2{
+        font-size: 25px;
+       }
+       .free_download_main h2{
+        padding-top: 180px;
+      }
+      .top_footer_box{
+        padding-bottom: 30px;
+      }
+    
+}
+@media (min-width:321px) and (max-width:575.99px){
+    .nav-item .nav-link{
+        padding:5px 10px ;
+      }
+    .nav-item .nav-link:hover{
+        color:white;
+        background: #2cacf8;
+      } 
+      .hero_part{
+        width: 100%;
+        padding-bottom: 60px;
+      }
+      .hero_part_main h1{
+        font-size: 30px !important;
+        padding-top: 20px;
+      }
+      .hero_part_main p{
+        font-size: 14px;
+      }
+      .letest_work_display{
+        flex-direction: column;
+      }
+      .work_main{
+        width: 100%;
+      }
+      .slider_main{
+        flex-direction: column;
+      }
+      .box_left{
+        width: 100%;
+      }
+      .box_right{
+        width: 100%;
+      }
+      .slider_main_part{
+        width: 95%;
+      }
+      .carsole_one {
+        width: 100%;
+      }
+      .carsole_one h2{
+        font-size: 25px;
+       }
+      .free_download_main h2{
+        padding-top: 180px;
+      }
+      .top_footer_box{
+        padding-bottom: 30px;
+      }
+     
+}
+@media (max-width:320.99px){
+    .nav-item .nav-link{
+        padding:5px 10px ;
+      }
+    .nav-item .nav-link:hover{
+        color:white;
+        background: #2cacf8;
+      }
+      .hero_part{
+        width: 100%;
+        padding-bottom: 60px;
+      }
+      .hero_part_main h1{
+        font-size: 30px !important;
+        padding-top: 20px;
+      }
+      .hero_part_main p{
+        font-size: 14px;
+      }
+      .letest_work_display{
+        flex-direction: column;
+      }
+      .work_main{
+        width: 100%;
+      }
+      .slider_main{
+        flex-direction: column;
+      }
+      .box_left{
+        width: 100%;
+      }
+      .box_right{
+        width: 100%;
+      }
+      .slider_main_part{
+        width: 95%;
+      }
+      .carsole_one {
+        width: 100%;
+      }
+      .carsole_one h2{
+        font-size: 25px;
+       }
+      .free_download_main h2{
+        padding-top: 60px;
+      }
+      .top_footer_box{
+        padding-bottom: 30px;
+      }
+}
